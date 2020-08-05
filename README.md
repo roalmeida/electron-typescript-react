@@ -16,6 +16,8 @@ Install all dependencies
 npm install
 ```
 
+or 
+
 ```bash
 yarn install
 ```
@@ -25,11 +27,22 @@ To run the project in development mode type the commands below
 
 ```bash
 npm run dev
+```
 
+or
+
+```bash
+yarn dev
 ```
 ## Build the pack
 To generate a project package run `package`
 
 ```bash
 npm run package
+```
+
+or
+
+```bash
+yarn package
 ```
