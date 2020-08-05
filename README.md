@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/pltn/static/relectron/relectron-logo.svg" height="136" width="154" alt="Relectron" />
+  <img src="./relectron-logo.svg" height="136" width="154" alt="Relectron" />
 </p>
 
 <h3 align="center">
